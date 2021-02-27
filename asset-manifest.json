@@ -1,15 +1,15 @@
 {
-  "main.css": "/tk-token/static/css/main.9d044f41.chunk.css",
-  "main.js": "/tk-token/static/js/main.64e63b71.chunk.js",
-  "main.js.map": "/tk-token/static/js/main.64e63b71.chunk.js.map",
-  "static/css/1.e9f40a54.chunk.css": "/tk-token/static/css/1.e9f40a54.chunk.css",
-  "static/js/1.e4ab8820.chunk.js": "/tk-token/static/js/1.e4ab8820.chunk.js",
-  "static/js/1.e4ab8820.chunk.js.map": "/tk-token/static/js/1.e4ab8820.chunk.js.map",
-  "runtime~main.js": "/tk-token/static/js/runtime~main.70b20236.js",
-  "runtime~main.js.map": "/tk-token/static/js/runtime~main.70b20236.js.map",
-  "static/css/main.9d044f41.chunk.css.map": "/tk-token/static/css/main.9d044f41.chunk.css.map",
-  "static/css/1.e9f40a54.chunk.css.map": "/tk-token/static/css/1.e9f40a54.chunk.css.map",
-  "index.html": "/tk-token/index.html",
-  "precache-manifest.0f8690f4e21f610a99f7f43840bd4211.js": "/tk-token/precache-manifest.0f8690f4e21f610a99f7f43840bd4211.js",
-  "service-worker.js": "/tk-token/service-worker.js"
+  "main.css": "/TKToken/static/css/main.9d044f41.chunk.css",
+  "main.js": "/TKToken/static/js/main.2a23b346.chunk.js",
+  "main.js.map": "/TKToken/static/js/main.2a23b346.chunk.js.map",
+  "static/css/1.e9f40a54.chunk.css": "/TKToken/static/css/1.e9f40a54.chunk.css",
+  "static/js/1.bb1c8b31.chunk.js": "/TKToken/static/js/1.bb1c8b31.chunk.js",
+  "static/js/1.bb1c8b31.chunk.js.map": "/TKToken/static/js/1.bb1c8b31.chunk.js.map",
+  "runtime~main.js": "/TKToken/static/js/runtime~main.a0037d40.js",
+  "runtime~main.js.map": "/TKToken/static/js/runtime~main.a0037d40.js.map",
+  "static/css/main.9d044f41.chunk.css.map": "/TKToken/static/css/main.9d044f41.chunk.css.map",
+  "static/css/1.e9f40a54.chunk.css.map": "/TKToken/static/css/1.e9f40a54.chunk.css.map",
+  "index.html": "/TKToken/index.html",
+  "precache-manifest.23b25e232e516a0cd084d53eb5f73f13.js": "/TKToken/precache-manifest.23b25e232e516a0cd084d53eb5f73f13.js",
+  "service-worker.js": "/TKToken/service-worker.js"
 }
